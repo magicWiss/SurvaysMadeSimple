@@ -6,7 +6,7 @@ const app=express();        //creazione app express
 
 
 app.get('/',(req,res)=>{
-  res.send({hi:'there'});
+  res.send({hi:'there wuz up'});
 
 });
 
